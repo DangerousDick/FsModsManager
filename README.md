@@ -9,3 +9,5 @@ This is a Windows application
 
 Aimed at FS22 but may work for FS19 if you change some of the settings in the applications config.ini file.
 This HAS NOT BEEN TESTED and may cause issues.
+
+Code for this application is in my fs22-mod-manager project.
